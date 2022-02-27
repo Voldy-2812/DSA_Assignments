@@ -11,6 +11,7 @@ IT @3rd Sem DSA Assignments <hr>
 ## Assignment-2
 1. Write a method duplicate Stack that returns a new stack containing the same elements and in the same order as the stack specified in the parameter. The method should create a new stack and fill it with the same data elements as the given stack. (You do not need to duplicate the contents of the elements.).Before the method finishes, it must restore the contents of the original stack to its original state (same contents in the same order). 
 2. Sort the given set of elements present in three stack data structures and put them in a single stack, without using any other variable.
+3. <hr>
 
 ## Assignment-3
 1. Write a function duplicateStack() that returns a new stack containing unique elements in the same order as the given stack specified in the parameter.
